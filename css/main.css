@@ -69,11 +69,11 @@ body {
   -o-transform: translateZ(-55px) scale(1.06);
 }
 .layer-2 {
-  transform: translateZ(80px) scale(0.8);
-  -webkit-transform: translateZ(80px) scale(0.8);
-  -moz-transform: translateZ(80px) scale(0.8);
-  -ms-transform: translateZ(80px) scale(0.8);
-  -o-transform: translateZ(80px) scale(0.8);
+  transform: translateZ(80px) scale(0.88);
+  -webkit-transform: translateZ(80px) scale(0.88);
+  -moz-transform: translateZ(80px) scale(0.88);
+  -ms-transform: translateZ(80px) scale(0.88);
+  -o-transform: translateZ(80px) scale(0.88);
 }
 .layer-3 {
   transform: translateZ(180px) scale(0.8);
