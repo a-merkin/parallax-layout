@@ -1,3 +1,1 @@
-[Посмотреть сайт](https://sage-vacherin-e42fc5.netlify.app/)
-
-Только HTML CSS JS
+[Открыть сайт](https://sage-vacherin-e42fc5.netlify.app/)
